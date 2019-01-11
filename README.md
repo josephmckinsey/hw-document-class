@@ -1,5 +1,5 @@
-# LaTeX Homework Document Class
-Do you need a simple document class for homework? I use this one.
+# Homework Document Class
+Do you need a simple document class for homework in LaTeX? I use this one.
 
 ## Titles
 
